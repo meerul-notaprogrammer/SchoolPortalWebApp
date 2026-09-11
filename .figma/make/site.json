@@ -1,0 +1,10 @@
+{
+  "description": "Centralized portal for SMK Kampung Jawa staff, students, and parents to access key school resources with accessible design and smooth navigation.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
